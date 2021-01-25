@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://github.com/lyashi/pages.git</id>
+    <id>https://lyashi.github.io/</id>
     <title>雅诗的个人网站</title>
-    <updated>2021-01-25T11:20:59.042Z</updated>
+    <updated>2021-01-25T11:23:05.842Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://github.com/lyashi/pages.git"/>
-    <link rel="self" href="https://github.com/lyashi/pages.git/atom.xml"/>
+    <link rel="alternate" href="https://lyashi.github.io/"/>
+    <link rel="self" href="https://lyashi.github.io/atom.xml"/>
     <subtitle>欢迎光临！</subtitle>
-    <logo>https://github.com/lyashi/pages.git/images/avatar.png</logo>
-    <icon>https://github.com/lyashi/pages.git/favicon.ico</icon>
+    <logo>https://lyashi.github.io/images/avatar.png</logo>
+    <icon>https://lyashi.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 雅诗的个人网站</rights>
     <entry>
         <title type="html"><![CDATA[我的照片2020]]></title>
-        <id>https://github.com/lyashi/pages.git/post/wo-de-zhao-pian-2020/</id>
-        <link href="https://github.com/lyashi/pages.git/post/wo-de-zhao-pian-2020/">
+        <id>https://lyashi.github.io/post/wo-de-zhao-pian-2020/</id>
+        <link href="https://lyashi.github.io/post/wo-de-zhao-pian-2020/">
         </link>
         <updated>2021-01-25T07:53:33.000Z</updated>
         <content type="html"><![CDATA[<p>2020冬的我<br>
-<img src="https://github.com/lyashi/pages.git/post-images/1611561298108.jpg" alt="" loading="lazy"></p>
+<img src="https://lyashi.github.io//post-images/1611561298108.jpg" alt="" loading="lazy"></p>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[我是谁？]]></title>
-        <id>https://github.com/lyashi/pages.git/post/wo-shi-shui/</id>
-        <link href="https://github.com/lyashi/pages.git/post/wo-shi-shui/">
+        <id>https://lyashi.github.io/post/wo-shi-shui/</id>
+        <link href="https://lyashi.github.io/post/wo-shi-shui/">
         </link>
         <updated>2021-01-25T07:50:39.000Z</updated>
         <content type="html"><![CDATA[<p>一个来自深圳的女孩，1990年生，</p>
@@ -31,8 +31,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://github.com/lyashi/pages.git/post/hello-gridea/</id>
-        <link href="https://github.com/lyashi/pages.git/post/hello-gridea/">
+        <id>https://lyashi.github.io/post/hello-gridea/</id>
+        <link href="https://lyashi.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
