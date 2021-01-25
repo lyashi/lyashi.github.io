@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lyashi.github.io</id>
     <title>雅诗的个人网站</title>
-    <updated>2021-01-25T12:48:58.512Z</updated>
+    <updated>2021-01-25T12:53:40.185Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lyashi.github.io"/>
     <link rel="self" href="https://lyashi.github.io/atom.xml"/>
@@ -11,13 +11,13 @@
     <icon>https://lyashi.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 雅诗的个人网站</rights>
     <entry>
-        <title type="html"><![CDATA[我的照片2020]]></title>
+        <title type="html"><![CDATA[我的照片]]></title>
         <id>https://lyashi.github.io/post/wo-de-zhao-pian-2020/</id>
         <link href="https://lyashi.github.io/post/wo-de-zhao-pian-2020/">
         </link>
         <updated>2021-01-25T07:53:33.000Z</updated>
-        <content type="html"><![CDATA[<p>2020冬的我<br>
-<img src="https://lyashi.github.io/post-images/1611561298108.jpg" alt="" loading="lazy"></p>
+        <content type="html"><![CDATA[<p>2020</p>
+<figure data-type="image" tabindex="1"><img src="https://lyashi.github.io/post-images/1611561298108.jpg" alt="" loading="lazy"></figure>
 ]]></content>
     </entry>
     <entry>
