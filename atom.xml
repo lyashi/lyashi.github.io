@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lyashi.github.io</id>
     <title>雅诗小筑</title>
-    <updated>2021-01-26T03:53:19.183Z</updated>
+    <updated>2021-01-26T04:06:36.178Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lyashi.github.io"/>
     <link rel="self" href="https://lyashi.github.io/atom.xml"/>
@@ -16,13 +16,12 @@
         <link href="https://lyashi.github.io/post/jiu-du-xue-xiao/">
         </link>
         <updated>2021-01-26T03:45:49.000Z</updated>
-        <content type="html"><![CDATA[<p><img src="https://lyashi.github.io/post-images/1611632979222.png" alt="" loading="lazy"><br>
-北京大学</p>
-<p><img src="https://lyashi.github.io/post-images/1611633057148.png" alt="" loading="lazy"><br>
-深圳中学</p>
-<p><img src="https://lyashi.github.io/post-images/1611633157987.jpg" alt="" loading="lazy"><br>
-麒麟中学</p>
-<p>南头小学</p>
+        <content type="html"><![CDATA[<p>大学<br>
+<img src="https://lyashi.github.io/post-images/1611632979222.png" alt="" loading="lazy"></p>
+<p>高中<br>
+<img src="https://lyashi.github.io/post-images/1611633057148.png" alt="" loading="lazy"></p>
+<p>初中小学<br>
+<img src="https://lyashi.github.io/post-images/1611633157987.jpg" alt="" loading="lazy"></p>
 ]]></content>
     </entry>
     <entry>
