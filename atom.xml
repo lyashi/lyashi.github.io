@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lyashi.github.io</id>
-    <title>雅诗的个人网站</title>
-    <updated>2021-01-26T02:07:34.111Z</updated>
+    <title>雅诗小筑</title>
+    <updated>2021-01-26T02:11:02.068Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lyashi.github.io"/>
     <link rel="self" href="https://lyashi.github.io/atom.xml"/>
     <subtitle>欢迎光临！</subtitle>
     <logo>https://lyashi.github.io/images/avatar.png</logo>
     <icon>https://lyashi.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, 雅诗的个人网站</rights>
+    <rights>All rights reserved 2021, 雅诗小筑</rights>
     <entry>
         <title type="html"><![CDATA[照片墙]]></title>
         <id>https://lyashi.github.io/post/wo-de-zhao-pian-2020/</id>
