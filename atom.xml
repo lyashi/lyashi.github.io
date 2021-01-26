@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lyashi.github.io</id>
     <title>雅诗小筑</title>
-    <updated>2021-01-26T02:47:11.318Z</updated>
+    <updated>2021-01-26T03:05:30.254Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lyashi.github.io"/>
     <link rel="self" href="https://lyashi.github.io/atom.xml"/>
@@ -107,12 +107,20 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[关于我]]></title>
+        <title type="html"><![CDATA[荣誉墙]]></title>
         <id>https://lyashi.github.io/post/wo-shi-shui/</id>
         <link href="https://lyashi.github.io/post/wo-shi-shui/">
         </link>
         <updated>2021-01-25T07:50:39.000Z</updated>
-        <content type="html"><![CDATA[<p>一个来自深圳的女生，1999年生，喜欢玩游戏，喜欢宅在家里。</p>
+        <content type="html"><![CDATA[<p>2014<br>
+<img src="https://lyashi.github.io/post-images/1611630261619.png" alt="" loading="lazy"></p>
+<figure data-type="image" tabindex="1"><img src="https://lyashi.github.io/post-images/1611630275054.png" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="2"><img src="https://lyashi.github.io/post-images/1611630283693.png" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="3"><img src="https://lyashi.github.io/post-images/1611630290081.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="4"><img src="https://lyashi.github.io/post-images/1611630295881.png" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="5"><img src="https://lyashi.github.io/post-images/1611630301784.png" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="6"><img src="https://lyashi.github.io/post-images/1611630308077.png" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="7"><img src="https://lyashi.github.io/post-images/1611630315792.png" alt="" loading="lazy"></figure>
 ]]></content>
     </entry>
 </feed>
