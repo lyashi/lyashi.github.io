@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lyashi.github.io</id>
     <title>雅诗心筑</title>
-    <updated>2021-08-21T05:53:23.665Z</updated>
+    <updated>2021-08-21T06:04:01.630Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lyashi.github.io"/>
     <link rel="self" href="https://lyashi.github.io/atom.xml"/>
@@ -16,7 +16,9 @@
         <link href="https://lyashi.github.io/post/dong-tai-qiang/">
         </link>
         <updated>2021-01-28T04:03:36.000Z</updated>
-        <content type="html"><![CDATA[<p>2020-01-21<br>
+        <content type="html"><![CDATA[<p>2021-07-13<br>
+毕业了，07-10经济学院开毕业典礼。07-13是学校的毕业典礼。</p>
+<p>2021-01-21<br>
 开启寒假模式，新冠全世界到处非常严重，正好宅家里。</p>
 ]]></content>
     </entry>
@@ -26,7 +28,8 @@
         <link href="https://lyashi.github.io/post/wen-zhang-qiang/">
         </link>
         <updated>2021-01-28T03:04:18.000Z</updated>
-        <content type="html"><![CDATA[<p><a href="https://mp.weixin.qq.com/s/Cim1siX04ktjdNS8B2TOXQ">北大经院辅导员风采｜纵漫漫长路，与你携手共看花开</a></p>
+        <content type="html"><![CDATA[<p><a href="http://mp.weixin.qq.com/s?__biz=MzA5MTQwOTgxNw==&mid=2650711124&idx=1&sn=10188720202f6347313b84cacb471348&chksm=8876d8a2bf0151b4237a13d5ddd19d8a1b4cc3a6dff6115445605a7f43a0149642cd20254ae6&mpshare=1&scene=24&srcid=0515QcJuDT7hJchMyQM82MYu&sharer_sharetime=1621088968689&sharer_shareid=97f4171841af92109e43cac92d1e6a74#rd">北京大学发来贺信</a></p>
+<p><a href="https://mp.weixin.qq.com/s/Cim1siX04ktjdNS8B2TOXQ">北大经院辅导员风采｜纵漫漫长路，与你携手共看花开</a></p>
 <p><a href="https://mp.weixin.qq.com/s/tSqa64tKKsQLmYMUYqf-UA">梁雅诗：成绩坐过“过山车”最后也能“翻盘”</a></p>
 ]]></content>
     </entry>
