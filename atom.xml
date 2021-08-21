@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lyashi.github.io</id>
     <title>雅诗心筑</title>
-    <updated>2021-08-21T05:46:25.000Z</updated>
+    <updated>2021-08-21T05:49:54.075Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lyashi.github.io"/>
     <link rel="self" href="https://lyashi.github.io/atom.xml"/>
@@ -11,7 +11,7 @@
     <icon>https://lyashi.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 雅诗心筑</rights>
     <entry>
-        <title type="html"><![CDATA[动态墙]]></title>
+        <title type="html"><![CDATA[动态墙 UPDATES]]></title>
         <id>https://lyashi.github.io/post/dong-tai-qiang/</id>
         <link href="https://lyashi.github.io/post/dong-tai-qiang/">
         </link>
@@ -21,7 +21,7 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[文章墙]]></title>
+        <title type="html"><![CDATA[文章墙 ARTICLES]]></title>
         <id>https://lyashi.github.io/post/wen-zhang-qiang/</id>
         <link href="https://lyashi.github.io/post/wen-zhang-qiang/">
         </link>
@@ -31,7 +31,7 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[游戏墙]]></title>
+        <title type="html"><![CDATA[游戏墙 GAMES]]></title>
         <id>https://lyashi.github.io/post/you-xi-qiang/</id>
         <link href="https://lyashi.github.io/post/you-xi-qiang/">
         </link>
@@ -40,7 +40,7 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[学校墙]]></title>
+        <title type="html"><![CDATA[学校墙 MY SCHOOLS]]></title>
         <id>https://lyashi.github.io/post/jiu-du-xue-xiao/</id>
         <link href="https://lyashi.github.io/post/jiu-du-xue-xiao/">
         </link>
@@ -54,7 +54,7 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[                                照片墙]]></title>
+        <title type="html"><![CDATA[                                照片墙 PICTURES ]]></title>
         <id>https://lyashi.github.io/post/wo-de-zhao-pian-2020/</id>
         <link href="https://lyashi.github.io/post/wo-de-zhao-pian-2020/">
         </link>
@@ -153,7 +153,7 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[荣誉墙]]></title>
+        <title type="html"><![CDATA[荣誉墙 REWARDS]]></title>
         <id>https://lyashi.github.io/post/wo-shi-shui/</id>
         <link href="https://lyashi.github.io/post/wo-shi-shui/">
         </link>
